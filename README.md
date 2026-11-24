@@ -5,10 +5,12 @@
 # 🚀 Awesome Developer IDE Plugins & AI Thought Rails
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails?style=social" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌟 **A definitive, curated directory of cutting-edge AI Developer IDE Plugins, Thought-Rail Reasoning Trackers, Autonomous Coding Agents, and Local LLM Autocomplete Engines.**  
@@ -24,6 +26,7 @@
 - [🛠️ Architectural Cheat Sheet: Building AI Thought Rails](#️-architectural-cheat-sheet-building-ai-thought-rails)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Share](#-support--share)
+- [⭐ Star History](#-star-history)
 - [⚖️ Disclaimer & Security Guidance](#️-disclaimer--security-guidance)
 
 ---
@@ -140,11 +143,22 @@ We welcome contributions from developers, researchers, and open-source maintaine
 
 ## 💖 Support & Share
 
-If this curated guide helps elevate your IDE setup or developer productivity:
+Thank you so much for exploring this ecosystem guide! Your support keeps this project active, comprehensive, and up to date for the global developer community. 🌟
 
-- ⭐ **Star this repository** to help fellow developers discover it!
-- 📢 **Share with your team & network** on X/Twitter, LinkedIn, and developer Discords.
-- ☕ **Sponsor open-source work** via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+If you find this curated guide helpful for your IDE workflow, team, or research:
+
+- ⭐ **Star this repository** to bookmark it and help others discover it.
+- 🍴 **Fork the repo** to add your own tooling pipelines, customizations, or plugins.
+- 📢 **Share with your network** across X (Twitter), LinkedIn, Reddit, or developer Discord channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back continuous maintenance and open-source tooling, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) — every coffee and contribution makes a huge difference!
+
+[![Sponsor @ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails&type=date&legend=top-left)
 
 ---
 
