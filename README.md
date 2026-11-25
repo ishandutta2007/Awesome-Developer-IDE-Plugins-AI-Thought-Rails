@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-IDE-Plugins-AI-Thought-Rails/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
@@ -64,9 +64,9 @@ Below is the curated breakdown of premier commercial AI coding platforms and IDE
 
 Explore the most prominent open-source AI IDE plugins, thought-rail visualizers, and autonomous coding extensions. 
 
-Sorted in descending order by **GitHub Star Count**:
+Sorted in descending order by **GitHub Stars_Count**:
 
-| Repository / Project | Stars | Focus & Description | Supported IDEs / Tools |
+| Repository / Project | GitHub_Stars | Focus & Description | Supported IDEs / Tools |
 | :--- | :--- | :--- | :--- |
 | **[sst/opencode](https://github.com/anomalyco/opencode)** | [![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | Terminal-first autonomous AI coding agent designed to operate fluidly with Neovim, Helix, and tmux terminal IDEs. | Terminal, Neovim, Helix, Zed |
 | **[zed-industries/zed](https://github.com/zed-industries/zed)** | [![Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) | High-performance Rust-built code editor featuring native inline AI assistants, multi-model routing, and Assistant Panel thought streams. | Zed (macOS, Linux) |
@@ -134,7 +134,7 @@ We welcome contributions from developers, researchers, and open-source maintaine
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-plugin`).
 3. 📝 **Add or update entries** in `README.md`:
    - Keep SaaS entries with explicit starting tier prices and exact free tier / trial terms.
-   - For open-source repos, place them in the table sorted by star counts with the badge format:  
+   - For open-source repos, place them in the table sorted by Stars_Counts with the badge format:  
      `[![Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
 4. 🧪 **Check markdown formatting** and verify all external hyperlinks.
 5. 🚀 **Submit a Pull Request** with a concise summary of changes.
